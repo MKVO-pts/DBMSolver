@@ -5,7 +5,7 @@ Decompose High order Data-Based Mechanistic models(DBM) models into a combinatio
 *Single input, single output
 
 Because of knowledge limitations, it is only done for Transfer Functions from a SISO situation. 
-In theory it should be possible to convert a State Space Model to a Transfer Function ("MIMO" to a SISO) and then use this functions, but the code will not be writien considering those cases (for now at least)
+In theory it should be possible to convert a State Space Model to a Transfer Function ("MIMO" to a SISO) and then use this functions, but the code will not be written considering those cases (for now at least)
 
 ## Methods
 1. Reducing the model order by polynomial division (only when m>n)
