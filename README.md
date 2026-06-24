@@ -44,5 +44,3 @@ The first order vectors, the First part is the "A" and the Second the "B"
 "p" = parallel;
 "f" = feedback
 
-
-NOTE: Maybe first do it using Python, then convert it to RUST
